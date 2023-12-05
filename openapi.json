@@ -1,0 +1,30 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Chess.ciom OpenApi sp",
+    "version": "latest",
+    "license": {
+      "name": "GPL v3.0",
+      "identifier": "AGPL-3.0-or-later"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://api.chess.com/pub"
+    }
+  ],
+  "components": {
+    "schemas": {
+      "user": {
+        "properties": {
+
+        }
+      }
+    }
+  },
+  "paths": {
+    "/player/{player}":{
+      
+    }
+  }
+}

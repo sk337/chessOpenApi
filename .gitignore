@@ -1,0 +1,4 @@
+*.zip
+v5.*
+dist/
+swagger-ui*
